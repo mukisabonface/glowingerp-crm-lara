@@ -1,0 +1,2 @@
+# glowingerp-crm-lara
+A laravel CRM/ERP I started to make for a client asking to create a hub erp for multiple ecommerce platforms as ebay, gumtree, amazon, and some other platforms. I started it forced to use Laravel while I didn't have any idea about it, so the code is actually messed up between bad use of middlewares and so on. Still, even if it's a work in progress, maybe someone out there will find it useful to get something else to work.
